@@ -78,8 +78,8 @@ function updateDescription () {
     }
 
     else if (imageIndex == 1) {
-        sousTitreDescriptionProjet.textContent = "deuxième étape";
-        paragrapheDescriptionProjet.textContent = "Description de la 2e étape";
+        sousTitreDescriptionProjet.textContent = "Identité visuelle";
+        paragrapheDescriptionProjet.textContent = "J'ai imaginé pour cette application une identité de marque moderne, colorée pour rendre dynamique et attractif la cuisine végétarienne. J'ai gardé la couleur verte en dominante, et une fanne de carotte au dessus du e pour signifier le végétal. La typographie Komet ... J'ai également prévu des icônes pour ajouter des categories aux recettes. ";
 
 
 

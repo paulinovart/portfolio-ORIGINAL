@@ -583,7 +583,9 @@ PORTFOLIO PROJECTS
 .project-title {
   color: #e7eafb;
   font-weight: 600;
-  font-size: 3vw;
+  font-size: 1.8vw;
+  align-items: flex-end;
+
 }
 
 .project-description {

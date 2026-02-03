@@ -89,6 +89,7 @@ padding: 2vw;
     color: white;
     text-align: center;
     font-size: clamp(10px, 1.4vw, 16px);
+    font-weight: lighter;
 }
 
 .image-slider-projet{
